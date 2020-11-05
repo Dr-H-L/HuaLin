@@ -9,13 +9,17 @@ As an child development and family scientist, **Dr. Lin** has been certified by 
 As an research methodologist, Dr. Lin has been cerifified by Data Carpentry as an instructor to teach data management and statistic programs in Data Carpentry Workshop (e.g., Introduction to R) and Software Workshop (e.g., Python).
 
 
-{% for post in site.posts %}
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-[{{ DrHuaLin }}]({{%20site.baseurl%20}}{{%20post.url%20}})
-============================================================
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-{{ post.excerpt }}
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-[Read More]({{%20site.baseurl%20}}{{%20post.url%20}})
-
-{% endfor %}
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
