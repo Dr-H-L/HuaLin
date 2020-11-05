@@ -1,6 +1,6 @@
 # Dr. Hua Lin's Website
 
-**About me**  **Research** **Publications** **Workshops**
+[**About me**]  [**Research**] [**Publications**] [**Workshops**]
 
 ***********
 
