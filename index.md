@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Dr. Lin's Website
 
-You can use the [editor on GitHub](https://github.com/Hua-Lin-OSU/hualin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hua Lin is a child development and family scientist and quantitative research methodologist and serves as a post-doctoral fellow working in the Department of Human Development and Family Science at Oklahoma State University. Dr. Lin has expertise in parenting, parent-child interaction, mediation moderation analysis, and psychometrics (including Item Response Theory). Her research interests are the development of parent-child interactions,  social withdrawal, immigrant youth well-being, psychometric, and making causal inferences in non-randomized studies. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As an child development and family scientist, Dr. Lin has been certified by Active Parenting in 2015 for teaching “Active parenting 4th edition” and “Parenting Your 1- to 4-Year-Old.”
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hua-Lin-OSU/hualin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As an research methodologist, Dr. Lin has been cerifified by Data Carpentry as an instructor to teach data management and statistic programs in Data Carpentry Workshop (e.g., Introduction to R) and Software Workshop (e.g., Python).
