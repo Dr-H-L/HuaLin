@@ -1,4 +1,4 @@
-## Dr. Lin
+# Dr. Lin
 
 Hua Lin is a child development and family scientist and quantitative research methodologist and serves as a post-doctoral fellow working in the Department of Human Development and Family Science at Oklahoma State University. Dr. Lin has expertise in parenting, parent-child interaction, mediation moderation analysis, and psychometrics (including Item Response Theory). Her research interests are the development of parent-child interactions,  social withdrawal, immigrant youth well-being, psychometric, and making causal inferences in non-randomized studies. 
 
