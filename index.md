@@ -1,3 +1,5 @@
+<img style="float: center; width: 800px; margin: 0px 20px 20px" src="images/Family.png">
+
 # Hua Lin, Ph.D
 
   
