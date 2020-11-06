@@ -5,7 +5,7 @@
 
 ***********
 
-<img style="float: left; width: 250px; margin: 0px 20px 20px" src="images/Me_regards1.png">
+<img style="float: left; width: 270px; margin: 0px 20px 20px" src="images/Me_regards1.png">
 
 > I am a child development and family scientist and quantitative research methodologist and serves as a post-doctoral fellow working in the Department of Human Development and Family Science at Oklahoma State University. 
 >
