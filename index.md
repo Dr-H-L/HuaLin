@@ -1,10 +1,5 @@
 # Dr. Hua Lin's Website
 
-<div class="posts">
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><b><Publications</b></a>
   
 [**About me**]  [**Research**] [**Publications**] [**Workshops**]
 
