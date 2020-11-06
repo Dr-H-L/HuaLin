@@ -1,5 +1,8 @@
 # Dr. Hua Lin's Website
 
+<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Publications</a>
+<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+
 [**About me**]  [**Research**] [**Publications**] [**Workshops**]
 
 ***********
