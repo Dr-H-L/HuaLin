@@ -1,4 +1,4 @@
-# Welcom to Dr. Hua Lin's Webpage
+# Hua Lin, Ph.D
 
   
 [**About me**]  [**Research**] [**Publications**] [**Workshops**]
