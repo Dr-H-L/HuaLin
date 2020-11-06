@@ -1,12 +1,10 @@
 # Dr. Hua Lin's Website
 
 <div class="posts">
-  {% for post in site.posts %}
       <div class="entry">
         {{ post.excerpt }}
       </div>
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><b><Publications</b></a>
-  {% endfor %}
   
 [**About me**]  [**Research**] [**Publications**] [**Workshops**]
 
