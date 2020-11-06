@@ -1,4 +1,4 @@
-<img style="float: center; width: 800px; margin: 0px 20px 20px" src="images/Family.jpg">
+<img style="float: center; width: 1000px; margin: 0px 20px 20px" src="images/Family.jpg">
 
 # Hua Lin, Ph.D
 
