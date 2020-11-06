@@ -5,11 +5,9 @@
       <div class="entry">
         {{ post.excerpt }}
       </div>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><b></black>Publications</black></b></a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><b><Publications</b></a>
   {% endfor %}
   
-</div><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-
 [**About me**]  [**Research**] [**Publications**] [**Workshops**]
 
 ***********
