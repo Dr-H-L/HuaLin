@@ -3,6 +3,11 @@ layout: post
 title: publications
 ---
 
+# Dr. Hua Lin's Website
+
+[**About me**]  [**Research**] [**Publications**] [**Workshops**]
+
+***********
 ## Publications
 
 > - **Lin, H.**, & Larzelere, R. E. (in press). Dual-centered ANCOVA: Resolving contradictory results from Lord’s paradox with implications for reducing bias in longitudinal analyses. *Journal of Adolescence*.
