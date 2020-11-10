@@ -3,7 +3,7 @@
 # Hua Lin, Ph.D
 
   
-About me /n Research /n  Publications /n Workshops 
+About me   Research    Publications   Workshops 
 
 ***********
 
