@@ -5,6 +5,9 @@ permalink: /research/
 slug: research
 ---
 
+<img style="float: center; width: 1000px; length: 10px; margin: 0px 5px 5px" src="images/Family4.jpg">
+
+
 # Research
 
 <div class="posts">
