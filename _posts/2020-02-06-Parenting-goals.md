@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Parenting goals
+title: Applying a Momentary Parenting Goal Regulation Model to Discipline Episodes with Toddlers
 ---
 
-# Applying a Momentary Parenting Goal Regulation Model to Discipline Episodes with Toddlers
 
 <img style="float: right; max-width:65%; max-height:65%" src="../images/traits.png">
 
