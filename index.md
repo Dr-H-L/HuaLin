@@ -8,7 +8,7 @@
 ***********
 
 <img style="float: left; width: 270px; margin: 0px 20px 20px" src="images/Me_regards1.png">
-
+>
 > I am a child development and family scientist and quantitative research methodologist and serves as a post-doctoral fellow working in the Department of Human Development and Family Science at Oklahoma State University. 
 >
 > As a child development and family scientist, my research interests are parenting and the development of parent-child interactions, in that I am focusing on momentary parenting goals, parental competency, social withdrawal, and immigrant youth well-being. I was certified by Active Parenting in 2015 for teaching “Active parenting 4th edition” and “Parenting Your 1- to 4-Year-Old.”
