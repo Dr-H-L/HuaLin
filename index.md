@@ -3,7 +3,7 @@
 # Hua Lin, Ph.D
 
   
-[**About me**]  [**Research**] [**Publications**] [**Workshops**]
+About me /About/ Research /Research/ Publications /Publications/ Workshops /Workshops/
 
 ***********
 
