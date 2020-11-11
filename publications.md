@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: publications
 permalink: /publications/
 ---
@@ -8,8 +8,8 @@ permalink: /publications/
 # Hua Lin, Ph.D.
 
 <div class="navbar">
-      <div class="navbar-inner">
-        <div class="container-narrow">
+      <div class="container">
+        <div class="container">
           <a class="brand" href="/">Home</a>
           <ul class="nav"> 
                 <right>
