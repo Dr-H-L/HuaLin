@@ -4,14 +4,12 @@ title: About
 permalink: /research/
 ---
 
-<img style="float: center; width: 1000px; margin: 0px 5px 5px" src="images/Family4.jpg">
-
 ![](images/Family4.jpg")
 
 # Hua Lin, Ph.D
 
   
-[About me](/about.md)   [Publications](/publications.md)   [Research](/research)     [Workshops](/workshop.md) 
+[**Home**](/)  \  [**About me**](/about.md) \  [**Publications**](/publications.md) \ [**Research**](/research) \ [**Workshops**](/workshop.md) 
 
 ***********
 
