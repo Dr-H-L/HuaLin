@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-<img style="float: center; width: 1000px; margin: 0px 5px 5px" src="images/Family4.jpg">
+![](images/Family4.jpg")
 
 # Hua Lin, Ph.D
 
   
-![About me](/about.md)     ![Research](/research.md)    ![Publications](/publications)   ![Workshops](/workshop) 
+[About me](/about.md)     [Research](/research.md)    [Publications](/publications)   ![Workshops](/workshop) 
 
 ***********
 
