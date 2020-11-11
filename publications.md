@@ -7,19 +7,7 @@ permalink: /publications/
 
 # Hua Lin, Ph.D.
 
-<div class="navbar">
-      <div class="container">
-        <div class="container">
-          <a class="brand" href="/">Home</a>
-          <ul class="nav"> 
-              <a href="/about">About Me</a>
-              <a href="/research">Research</a> 
-              <a href="/publications">Publications</a>
-         </ul>
-        </div>
-      </div>
-    </div>
-
+[**Home**](/)  \  [**About me**](/about.md) \  [**Publications**](/publications.md) \ [**Research**](/research) \ [**Workshops**](/workshop.md) 
 
 
 ***********
