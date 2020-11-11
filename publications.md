@@ -2,6 +2,8 @@
 layout: post
 title: publications
 ---
+![_config.yml]({{ site.baseurl }}/images/Family4.png)
+
 
 # Dr. Hua Lin's Website
 
@@ -33,4 +35,3 @@ title: publications
 > - Larzelere, R. E., Knowles, S. J., Curtis, J., Oliver, M. G., Bigler, J. F., Lin H., & Larzelere W. A. (under review). Immediate and longer-term effects of modeling desired behavior and collaborating when toddlers are noncompliant. Journal of Child and Family Studies.
 > - Liu, J. Lin, H. Hu Bing, Zhou Zixiong, Agyeiwaah Elizabeth, Xu Ye (under review), In Item Response Theory framework to understand Residents’ Pro-tourism Behaviors. Journal of Business Research  
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
