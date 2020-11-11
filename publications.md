@@ -2,7 +2,7 @@
 layout: post
 title: publications
 ---
-![_config.yml]({{ site.baseurl }}/images/Family4.png)
+![_config.yml]({{ site.baseurl }}/images/Family4.jpg)
 
 
 # Dr. Hua Lin's Website
