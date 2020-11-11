@@ -6,7 +6,18 @@ title: publications
 
 # Hua Lin, Ph.D.
 
-[**About me**]  [**Research**] [**Publications**] [**Workshops**]
+<div class="navbar">
+      <div class="navbar-inner">
+        <div class="container-narrow">
+          <a class="brand" href="/">Home</a>
+          <ul class="nav">
+              <li><a href="/About.md">About &amp; Me</a></li>
+              <li><a href="/research.md">Research</a></li>
+              <li><a href="/Publications.md">Publications</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
 
 ***********
 ## Publications
