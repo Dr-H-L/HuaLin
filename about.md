@@ -9,7 +9,7 @@ permalink: /about/
 # Hua Lin, Ph.D
 
   
-About me   Research    Publications   Workshops 
+![About me](/about)     ![Research](/research)    ![Publications](/publications)   ![Workshops](/workshop) 
 
 ***********
 
