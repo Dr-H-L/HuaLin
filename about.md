@@ -8,8 +8,9 @@ permalink: /about/
 
 # Hua Lin, Ph.D
 
+<span style="color:red">some **This is Red Bold.** text</span>
   
-[About me](/about.md)   [Publications](/publications.md)   [Research](/research)     [Workshops](/workshop.md) 
+<span style="color:black"> **[About me](/about.md)   [Publications](/publications.md)   [Research](/research)     [Workshops](/workshop.md) ** </span> 
 
 ***********
 
