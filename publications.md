@@ -11,9 +11,9 @@ title: publications
         <div class="container-narrow">
           <a class="brand" href="/">Home</a>
           <ul class="nav">
-              <li><a href="/About">about &amp; Me</a></li>
-              <li><a href="/research">research</a></li>
-              <li><a href="/Publications">publications</a></li>
+              <li><a href="/About">About Me</a></li>
+              <li><a href="/research">Research</a></li>
+              <li><a href="/publications">Publications</a></li>
           </ul>
         </div>
       </div>
