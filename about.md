@@ -13,16 +13,15 @@ permalink: /about/
 
 ***********
 
-<img style="float: left; width: 270px; margin: 10px 20px 20px" src="images/Me_regards1.png">
-
 ### Current Research Interests:
-#### Immigrant family well-being
+
+**Immigrant family well-being**
 - Risk and resilience in immigrant family
 - Evaluating measures for immigrant populations
-#### Child Development
+**Child Development**
 - Parenting
 - Parent-child interactions
-#### Quantitative Methods
+**Quantitative Methods**
 - Making causal inferences from longitudinal studies
 - Statistical model comparisons
 - Psychometrics, Item Response Theory
