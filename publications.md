@@ -21,7 +21,6 @@ permalink: /publications/
         </div>
       </div>
     </div>
-    <div class = "container-narrow">....</div>
 
 
 
