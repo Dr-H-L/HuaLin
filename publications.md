@@ -3,7 +3,7 @@ layout: post
 title: publications
 permalink: /publications/
 ---
-<img style="float: center; width: 1000px; margin: 0px 5px 5px" src="images/Family4.jpg">
+![]("images/Family4.jpg")
 
 # Hua Lin, Ph.D.
 
