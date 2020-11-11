@@ -13,7 +13,7 @@ permalink: /publications/
           <a class="brand" href="/">Home</a>
           <ul class="nav"> 
                 <right>
-              <a href="/About">About Me</a>
+              <a href="/about">About Me</a>
               <a href="/research">Research</a> 
               <a href="/publications">Publications</a>
                  </right>
