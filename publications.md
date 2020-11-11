@@ -10,10 +10,12 @@ title: publications
       <div class="navbar-inner">
         <div class="container-narrow">
           <a class="brand" href="/">Home</a>
-          <ul class="nav">
+          <ul class="nav"> 
+                <right>
               <a href="/About">About Me</a>
-              <a href="/research">Research</a>
-              <li><a href="/publications">Publications</a></li>
+              <a href="/research">Research</a> 
+              <a href="/publications">Publications</a>
+                 </right>
          </ul>
         </div>
       </div>
