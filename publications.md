@@ -12,11 +12,9 @@ permalink: /publications/
         <div class="container">
           <a class="brand" href="/">Home</a>
           <ul class="nav"> 
-                <right>
               <a href="/about">About Me</a>
               <a href="/research">Research</a> 
               <a href="/publications">Publications</a>
-                 </right>
          </ul>
         </div>
       </div>
