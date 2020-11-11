@@ -13,8 +13,6 @@ permalink: /research/
 
 ***********
 
-<img style="float: left; width: 270px; margin: 10px 20px 20px" src="images/Me_regards1.png">
-
 ## Research
 
 <div class="posts">
