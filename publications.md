@@ -50,9 +50,9 @@ permalink: /publications/
 >
 > -  Cox, R., Sahbaz S., Lin, H., Washburn, I. J., & Greder, K. (November, 2020). Fear of Deportation Scale: Evidence for use in a Latino Sample. Paper was presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference. 
 >
-> -  Lin, H., Sahbaz, S., Nolasco, H., Anderson, M., & Cox, R. (November, 2019). Cognitive Functioning, Fear of Deportation, Stress, and Hope in Latino Immigrant Youth. Paper was presented in a paper symposium at the 2019 annual conference of the National Council on Family Relations, Fort Worth, Texas.
->
 > -  Washburn, I. J., Lin, H., Sahbaz S., Greder, K., & Cox, R. (November, 2020). Positive Youth Development Caring Scale: Evidence for use in a Latino Sample. Paper was presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations. 
+>
+> -  Lin, H., Sahbaz, S., Nolasco, H., Anderson, M., & Cox, R. (November, 2019). Cognitive Functioning, Fear of Deportation, Stress, and Hope in Latino Immigrant Youth. Paper was presented in a paper symposium at the 2019 annual conference of the National Council on Family Relations, Fort Worth, Texas.
 >
 > -  Anderson, M., Sahbaz, S., Lin, H., Nolasco, H., & Cox, R. (November, 2019). Depression, Fear of Deportation, Stress, and Hope in Latino Immigrant Youth. Paper was presented in a paper symposium at the 2019 annual conference of the National Council on Family Relations, Fort Worth, Texas. 
 >
