@@ -18,9 +18,11 @@ permalink: /about/
 **Immigrant family well-being**
 - Risk and resilience in immigrant family
 - Evaluating measures for immigrant populations
+
 **Child Development**
 - Parenting
 - Parent-child interactions
+
 **Quantitative Methods**
 - Making causal inferences from longitudinal studies
 - Statistical model comparisons
