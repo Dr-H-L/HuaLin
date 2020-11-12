@@ -11,13 +11,13 @@ layout: default
 
 ***********
 
-<img style="float: left; width: 200px; margin: 10px 20px 20px" src="images/Me_regards1.png">
+<img style="float: left; width: 270px; margin: 10px 20px 20px" src="images/Me_regards1.png">
 
 ## Aount Me
 
-> I am a developmental scientist and quantitative research methodologist. 
-> I serve as a post-doctoral fellow in the Department of Human Development and Family Science at Oklahoma State University. 
-> I am currently working on several NIH funding projects.
+> I am a developmental scientist and quantitative research methodologist.  <br />
+> I serve as a post-doctoral fellow in the Department of Human Development and Family Science at Oklahoma State University.  <br /> 
+> I am currently working on several NIH funding projects.  <br />
 
 ## Contact Me
 [hua.lin@okstate.edu](mailto:hua.lin@dokstate.edu)  <br />
