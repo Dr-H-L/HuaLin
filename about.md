@@ -11,6 +11,14 @@ permalink: /about/
  
 [**Home**](/)  \  [**About me**](/about.md) \  [**Publications**](/publications.md) \ [**Research**](/research) \ [**Workshops**](/workshop.md) 
 
+ <dir class = "manu">
+<ul  class = "manu">
+              <a href="/pages/about.md">About me</a>
+              <a href="/pages/research.md">Research</a>
+              <a href="/pages/publications.md">Publications</a>
+          </ul></dir>
+
+
 ***********
 
 ## Research Interests
