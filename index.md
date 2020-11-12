@@ -15,12 +15,12 @@ layout: default
 
 ## Aount Me
 Hua Lin, Ph.D <br />
-Developmental scientist <br />
+Developmental and family scientist <br />
 Quantitative research methodologist  <br />
 Post-doctoral fellow  <br />
 Working on several NIH funding projects  <br />
-Department of Human Development and Family Science <br />
-Oklahoma State University <br />
+*Department of Human Development and Family Science* <br />
+@Oklahoma State University <br />
 
 ## Contact Me
 [hua.lin@okstate.edu](mailto:hua.lin@dokstate.edu)  <br />
