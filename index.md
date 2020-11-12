@@ -11,7 +11,7 @@ layout: default
 
 ***********
 
-<img style="float: left; width: 270px; margin: 10px 20px 20px" src="images/Me_regards1.png">
+<img style="float: left; width: 250px; margin: 0px 5px 20px" src="images/Me_regards1.png">
 
 ## Aount Me
 
