@@ -30,13 +30,13 @@ ResearchGate  <br />
 
 
 ## Research Interests
-> One of my research interests is the development of parent-child interactions, in that I focuse on momentary parenting goals, parental competency, and social withdrawal. I was certified by Active Parenting in 2015 for teaching “Active parenting 4th edition” and “Parenting Your 1- to 4-Year-Old.”
+> One of my research interests is the development of parent-child interactions, in that I focus on momentary parenting goals, parental competency, and social withdrawal. I was certified by Active Parenting in 2015 for teaching “Active parenting 4th edition” and “Parenting Your 1- to 4-Year-Old.”
 >
-> My research interest in immigrant youth well-being focuses on how immigrant-related stress impacts Latinx adolescent health and behavior and how a psycho-educational intervention can buffer against stress and/or ameliorate the effects of stress in Latinx immigrant families from resilience perspective.
+> My research interest in immigrant youth well-being focuses on how immigrant-related stress impacts Latinx adolescent health and behavior and how a psycho-educational intervention can buffer against stress and/or ameliorate the effects of stress in Latinx immigrant families from a resilience perspective.
 >
-> My research interest in quantitative methods is in enhancing causal evidence from non-randomized longitudinal research designs. I am also interested in cross-cultural psychometric appropriations (including Item Response Theory) and statistic model comparison (mediation moderation, propensity score matching, dual-centered ANCOVA, etc.). 
+> My research interest in quantitative methods is enhancing causal evidence from non-randomized longitudinal research designs, cross-cultural psychometric appropriations (including Item Response Theory), and statistic model comparison (mediation moderation, propensity score matching, dual-centered ANCOVA, etc.). 
 
-> I am also expertise in applying statistical software such as Stata, Mplus, R, SAS, and Python in research and teaching. I have been certified by Data Carpentry to teach data management and statistic programs in Data Carpentry Workshop (e.g., Introduction to R) and Software Workshop (e.g., Python).
+> I am also applying statistical software such as Stata, Mplus, R, SAS, and Python in research and teaching. I have been certified by Data Carpentry to teach data management and statistic programs in Data Carpentry Workshop (e.g., Introduction to R) and Software Workshop (e.g., Python).
 
 > [More...](/research)
 
