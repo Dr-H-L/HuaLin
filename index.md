@@ -15,11 +15,13 @@ layout: default
 
 ## Aount Me
 
-I am a developmental scientist and quantitative research methodologist.  <br />
+A developmental scientist and quantitative research methodologist  <br />
  <br />
-I earned my Ph.D. degree in Human Development and Family Science at Oklahoma State University. <br />
+Ph.D. in Human Development and Family Science <br />
  <br />
-I currently serve as a post-doctoral fellow at Oklahoma State University, working on several NIH funding projects.  <br />
+Serving as a post-doctoral fellow at Oklahoma State University <br />
+ <br /> 
+Working on several NIH funding projects  <br />
 
 ## Contact Me
 [hua.lin@okstate.edu](mailto:hua.lin@dokstate.edu)  <br />
