@@ -31,7 +31,6 @@ permalink: /about/
 
 
 ## Contact me
-Hua Lin
 [hua.lin@okstate.edu](mailto:hua.lin@dokstate.edu)  <br />
 [Google Scholar](https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en)  <br />
 [Webpage](https://drhualin.github.io/)  <br />
