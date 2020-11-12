@@ -19,9 +19,9 @@ permalink: /research/
 > - *2020*   National Institute of Drug Abuse (2021-2023). Parent-Child Language Discrepancies and ATOD use among Latino Immigrants (under review). **Co-Principal Investigator**.
 >
 > - *2020*   National Institute of General Medical Sciences (2021-2025). Relationship of Resiliency factors in American Indian Parents and Youth to Adverse Childhood Events and Suicide Ideation (under review). **Co-Principal Investigator**.
->
+
 ### Data Analysis for the Funded Projects
->
+
 > - *2019*  National Institutes of Health, National Institute on Drug Abuse (2019-2022). Reducing Alcohol, Tobacco, and Drug Use Among Latino Immigrant Youth: A Preliminary Test of the ¡Unidos Se Puede! Program (R15DA049232). $444,774. R. Cox, PI.
 >
 > -	*2018*  National Institute of Food and Agriculture (2018-2023). CYFAR Oklahoma State and Langston University Multi-State Sustainable Community Project: United We Can Entrepreneurship Program for African American Youth (2018-41520-28907). $1,280,000. R. Cox, Co-Project director.
