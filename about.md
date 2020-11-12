@@ -13,7 +13,7 @@ permalink: /about/
 
 ***********
 
-### Current Research Interests:
+## Current Research Interests:
 
 **Immigrant family well-being**
 - Risk and resilience in immigrant family
@@ -30,7 +30,9 @@ permalink: /about/
 - Machine learning
 
 
-### Contact me
+## Contact me
 
-[hua.lin@okstate.edu](mailto:hua.lin@dokstate.edu)
-
+Email: [hua.lin@okstate.edu](mailto:hua.lin@dokstate.edu)
+[Google Scholar](https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en)
+[Webpage](https://drhualin.github.io/)
+ResearchGate
