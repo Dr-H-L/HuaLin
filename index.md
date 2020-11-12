@@ -7,17 +7,18 @@ layout: default
 # Hua Lin, Ph.D
 
   
-**About me**/**Research**/**Publications**/**Workshops** 
+**Home**/**Research**/**Publications**/**Workshops** 
 
 ***********
 
-<img style="float: left; width: 270px; margin: 10px 20px 20px" src="images/Me_regards1.png">
+<img style="float: left; width: 200px; margin: 10px 20px 20px" src="images/Me_regards1.png">
 
+## Aount Me
 
 > I am a child development and family scientist and quantitative research methodologist. I serve as a post-doctoral fellow working in the Department of Human Development and Family Science at Oklahoma State University. 
 >
 
-## Contact me
+## Contact Me
 [hua.lin@okstate.edu](mailto:hua.lin@dokstate.edu)  <br />
 [Google Scholar](https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en)  <br />
 [Webpage](https://drhualin.github.io/)  <br />
