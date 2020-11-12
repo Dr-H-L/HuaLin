@@ -7,7 +7,7 @@ layout: default
 # Hua Lin, Ph.D
 
   
-About me   Research    Publications   Workshops 
+**About me**/**Research**/**Publications**/**Workshops** 
 
 ***********
 
