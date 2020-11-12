@@ -21,11 +21,24 @@ About me   Research    Publications   Workshops
 > As a research methodologist, I am focusing on cross-cultural psychometric appropriations (including Item Response Theory), statistic model comparison (mediation moderation, propensity score matching, dual-centered ANCOVA, etc.), and making causal inferences in non-randomized studies. I have been certified by Data Carpentry to teach data management and statistic programs in Data Carpentry Workshop (e.g., Introduction to R) and Software Workshop (e.g., Python).
 
 
-## Publications
+## Recent Publications
 
 > - **Lin, H.**, & Larzelere, R. E. (in press). Dual-centered ANCOVA: Resolving contradictory results from Lord’s paradox with implications for reducing bias in longitudinal analyses. *Journal of Adolescence*.
-> - **Lin, H.**, Harrist, A. W., Lansford, J. E., Dodge, K. A., Bates, J. E., & Pettit, G. S. (2020). Adolescent social withdrawal, parental psychological control, and parental monitoring knowledge across seven years: A developmental cascade model. *Journal of Adolescence*, 81, 124-134.
-> - **Lin, H.** (2020). Probing two-way moderation effects: A review of software to easily plot Johnson-Neyman figures. *Structural Equation Modeling: A Multidisciplinary Journal*, 27, 492-502. doi:10.1080/10705511.2020.1732826.
-> - **Lin, H.,** Richie, K. L., & Larzelere, R. E. (2020). Applying a momentary parenting goal-regulation model to discipline episodes with toddlers. *Journal of Child and Family Studies*, 29, 1055–1069. doi:10.1007/s10826-020-01698-1
-> - Larzelere, R.E., Gunnoe, M. L., Roberts, M. W., **Lin, H.**, Ferguson, C. J. (2020). Causal evidence for exclusively positive parenting and timeout. *Marriage & Family Review*, 56, 287-319. doi:10.1080/01494929.2020.1712304.
-> - Larzelere, R. E., **Lin, H.**, Payton, M. E., & Washburn, I. J. (2018). Longitudinal biases against corrective actions. *Archives of Scientific Psychology*, 6, 243-250. doi:10.1037/arc0000052.
+>
+> - **Lin, H.**, Harrist, A. W., Lansford, J. E., Dodge, K. A., Bates, J. E., & Pettit, G. S. (2020). Adolescent social withdrawal, parental psychological control, and parental monitoring knowledge across seven years: A developmental cascade model. *Journal of Adolescence*, 81, 124-134. [doi:10.1016/j.adolescence.2020.04.007](http:/doi.org/10.1016/j.adolescence.2020.04.007)
+>
+> - **Lin, H.** (2020). Probing two-way moderation effects: A review of software to easily plot Johnson-Neyman figures. *Structural Equation Modeling: A Multidisciplinary Journal*, 27, 492-502. [doi:10.1080/10705511.2020.1732826](http://doi.org/10.1080/10705511.2020.1732826).
+>
+> [More Publicaitons...](/publications)
+
+## Recent Presentations
+
+> - Lin, H., Washburn, I. J., Cox, R., Sahbaz S., & Greder, K. (November, 2020). Snyder’s Children’s Hope Scale: Evidence for use in a Latino Sample. Paper wil be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
+>
+> - Sahbaz S., Cox, R., Lin, H., Washburn, I. J., & Greder, K. (November, 2020). Pediatric Psychological Stress Scale: Evidence for use in a Latino Sample. Paper will be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
+>
+> - Cox, R., Sahbaz S., Lin, H., Washburn, I. J., & Greder, K. (November, 2020). Fear of Deportation Scale: Evidence for use in a Latino Sample. Paper will be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
+>
+> - Washburn, I. J., Lin, H., Sahbaz S., Greder, K., & Cox, R. (November, 2020). Positive Youth Development Caring Scale: Evidence for use in a Latino Sample. Paper will be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations.
+
+[More Presentations...](/publications)
