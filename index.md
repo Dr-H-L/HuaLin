@@ -15,8 +15,9 @@ layout: default
 
 ## Aount Me
 
-> I am a child development and family scientist and quantitative research methodologist. I serve as a post-doctoral fellow working in the Department of Human Development and Family Science at Oklahoma State University. 
->
+> I am a developmental scientist and quantitative research methodologist. 
+> I serve as a post-doctoral fellow in the Department of Human Development and Family Science at Oklahoma State University. 
+> I am currently working on several NIH funding projects.
 
 ## Contact Me
 [hua.lin@okstate.edu](mailto:hua.lin@dokstate.edu)  <br />
