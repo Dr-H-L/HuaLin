@@ -79,10 +79,12 @@ permalink: /publications/
 > -  Lin, H., Larzelere, R. E., & Washburn, I. J. (May, 2018). Toward Understanding Contradictory Methods for Reducing Selection Bias in Longitudinal Analyses. Paper presented at the Modern Modeling Methods Conference, Storrs, CT.
 >
 > -  Larzelere, R. E., Washburn, I. J., Lin, H., & Cox, R. B. (April, 2017). Trying to Overcome Selection Bias in Longitudinal Analyses of Corrective Actions by Professionals. Paper presented at the 2017 biennial meeting of the Society for Research in Child Development, Austin, TX.
-18. Lin, H., & Larzelere, R. E. (March, 2017). Influence of Momentary Parenting Goals on Maternal Responses to Toddler Noncompliance. Paper presented at the Oklahoma Council on Family Relations Conference, Oklahoma City, OK.
+>
+> -  Lin, H., & Larzelere, R. E. (March, 2017). Influence of Momentary Parenting Goals on Maternal Responses to Toddler Noncompliance. Paper presented at the Oklahoma Council on Family Relations Conference, Oklahoma City, OK.
 >
 > -  Lin, H., & Larzelere, R. E. (March, 2016). Correlates of Maternal Negative Affect during Discipline Episodes with Toddlers. Paper presented at the biennial meeting of the 2016 Society for Research in Human Development, Denver, CO.
-16. Lin, H., & Henry C. S. (March, 2015). A Conceptual Framework of Family Resilience: Resilience in International Graduate Student Families. Paper presented at the Oklahoma Council on Family Relations Conference, Oklahoma City, OK.
+>
+> -  Lin, H., & Henry C. S. (March, 2015). A Conceptual Framework of Family Resilience: Resilience in International Graduate Student Families. Paper presented at the Oklahoma Council on Family Relations Conference, Oklahoma City, OK.
 >
 > -  Lin, H., & Larzelere, R. E. (March, 2015). How Parenting Strategies Vary by Momentary Parenting Goals. Paper presented at the Oklahoma Council on Family Relations Conference, Oklahoma City, OK.
 
@@ -97,7 +99,8 @@ permalink: /publications/
 > -  Lin, H. (September, 2020). Dual-centered ANCOVA: Modifying ANCOVA to Model within-Person Change. Poster was presented at the 2020 Women in Statistics and Data Science Virtual Conference. 
 >
 > -  Lin, H., & Larzelere, R. E. (August, 2020). A Reanalysis of the Effect of Child Care Subsidies on Maternal Characteristics in Fragile Families. Poster was presented at the 2020 annual American Psychological Association Convention, Washington, DC.
-9. Washburn, I. J., Lin, H., Sahbaz, S., & Cox, R. (July, 2020). IRT Analysis of the Lerner Caring Scale with a Sample of Latino Immigrant Youth. Poster was presented at the Society for Prevention Research 27th Annual Meeting, Virtual Meeting.
+>
+> -  Washburn, I. J., Lin, H., Sahbaz, S., & Cox, R. (July, 2020). IRT Analysis of the Lerner Caring Scale with a Sample of Latino Immigrant Youth. Poster was presented at the Society for Prevention Research 27th Annual Meeting, Virtual Meeting.
 >
 > -  Larzelere, R. E., Beasley, L. & Lin, H. (June, 2020). Can Age-Appropriate Reasoning Potentially Improve Behavioral Parent Training for Oppositional Preschoolers? Poster was presented at the Journal of Clinical Child and Adolescent Psychology 4th Future Directions Forum, Virtual conference. 
 >
