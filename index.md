@@ -14,14 +14,13 @@ layout: default
 <img style="float: left; width: 270px; margin: 0px 5px 20px" src="images/Me_regards1.png">
 
 ## Aount Me
-
-A developmental scientist and quantitative research methodologist  <br />
- <br />
-Ph.D. in Human Development and Family Science <br />
- <br />
-Serving as a post-doctoral fellow at Oklahoma State University <br />
- <br /> 
+Hua Lin, Ph.D
+Developmental scientist <br />
+Quantitative research methodologist  <br />
+Post-doctoral fellow  <br />
 Working on several NIH funding projects  <br />
+Department of Human Development and Family Science <br />
+Oklahoma State University <br />
 
 ## Contact Me
 [hua.lin@okstate.edu](mailto:hua.lin@dokstate.edu)  <br />
