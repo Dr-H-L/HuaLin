@@ -9,7 +9,7 @@ permalink: /research/
 # Hua Lin, Ph.D
 
   
-[**Home**](/)  \  [**About me**](/about.md) \  [**Publications**](/publications.md) \ [**Research**](/research) \ **Workshops** 
+[**Home**](/) \ [**Publications**](/publications.md) \ [**Research**](/research) \ **Workshops** 
 
 ***********
 
