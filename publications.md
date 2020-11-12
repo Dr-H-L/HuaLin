@@ -68,7 +68,7 @@ permalink: /publications/
 >
 > -  Sahbaz, S., Lin, H., Anderson, M., Nolasco, H., Washburn, I. J., Cox, R. (May, 2019). Emerging, Hot Topic: Emotional and Behavioral Dyscontrol, Fear of Deportation, Stress, and Hope Among Latino Immigrant Youth. Paper presented in a paper symposium at the Society for Prevention Research 27th Annual Meeting, San Francisco, CA.
 
-### Paper presentations:
+### Paper presentations
 >
 > -  Lin, H. & Larzelere, R. E. (June 2020). Centered-ANCOVA: A Solution for Lord’s Paradox with Implications for Valid Causal Inferences in Longitudinal Analyses. Paper will be presented at the 2020 Modern Modeling Methods Conference, Mansfiled, CT.
 >
@@ -88,7 +88,7 @@ permalink: /publications/
 >
 > -  Lin, H., & Larzelere, R. E. (March, 2015). How Parenting Strategies Vary by Momentary Parenting Goals. Paper presented at the Oklahoma Council on Family Relations Conference, Oklahoma City, OK.
 
-### Poster presentations:
+### Poster presentations
 >
 > -  Lin, H., Washburn, I. J., Cox, R., Sahbaz S., & Greder, K. (October, 2020). The path from fear of deportation to immigrant Latino Youth ATOD use, Anxiety, and Cognitive Dysfunction. Poster was presented at the 2020 National Hispanic Science Network Conference, Virtual conference due to COVID-19.
 >
