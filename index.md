@@ -11,12 +11,14 @@ layout: default
 
 ***********
 
-<img style="float: left; width: 250px; margin: 0px 5px 20px" src="images/Me_regards1.png">
+<img style="float: left; width: 270px; margin: 0px 5px 20px" src="images/Me_regards1.png">
 
 ## Aount Me
 
 I am a developmental scientist and quantitative research methodologist.  <br />
+ <br />
 I earned my Ph.D. degree in Human Development and Family Science at Oklahoma State University. <br />
+ <br />
 I currently serve as a post-doctoral fellow at Oklahoma State University, working on several NIH funding projects.  <br />
 
 ## Contact Me
