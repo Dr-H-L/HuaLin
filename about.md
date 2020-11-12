@@ -6,7 +6,7 @@ permalink: /about/
 
 ![](images/Family4.jpg")
 
-# Hua Lin, Ph.D
+# Hua Lin, Ph.D.
 
  
 [**Home**](/)  \  [**About me**](/about.md) \  [**Publications**](/publications.md) \ [**Research**](/research) \ [**Workshops**](/workshop.md) 
