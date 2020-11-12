@@ -11,10 +11,10 @@ layout: default
 
 ***********
 
-<img style="float: left; width: 270px; margin: 0px 5px 20px" src="images/Me_regards1.png">
+<img style="float: right; width: 270px; margin: 0px 5px 20px" src="images/Me_regards1.png">
 
 ## Aount Me
-Hua Lin, Ph.D
+Hua Lin, Ph.D <br />
 Developmental scientist <br />
 Quantitative research methodologist  <br />
 Post-doctoral fellow  <br />
