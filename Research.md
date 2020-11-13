@@ -4,8 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-<a href="http://drhualin.github.io"><img style="float: right; width: 80px; margin: 0px 5px 20px" src="/images/Me_regards1.png">
-<a href="http://drhualin.github.io"><img style="float: center; width: 40px; margin: 0px 0px 0px" src="/images/logo-goldB.jpg"></a> <h1> Hua Lin, Ph.D </h1>
+<a href="http://drhualin.github.io"><img style="float: right; width: 90px; margin: 0px 5px 20px" src="/images/Me_regards1.png">
+# <img style="float: center; width: 40px; margin: 0px 0px 0px" src="/images/logo-goldB.jpg">  Hua Lin, Ph.D 
 
   
 [**Home**](/) \ [**Publications**](/publications.md) \ [**Research**](/research) \ **Workshops** 
