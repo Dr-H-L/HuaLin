@@ -34,7 +34,7 @@ ResearchGate  <br />
 >
 > My research interest in immigrant youth well-being focuses on how immigrant-related stress impacts Latinx adolescent health and behavior and how a psycho-educational intervention can buffer against stress and/or ameliorate the effects of stress in Latinx immigrant families from a resilience perspective.
 >
-> My research interest in quantitative methods is enhancing causal evidence from non-randomized longitudinal research designs, cross-cultural psychometric appropriations (including Item Response Theory), and statistic model comparison (mediation moderation, propensity score matching, dual-centered ANCOVA, etc.). 
+> My research interest in quantitative methods is enhancing causal evidence from non-randomized longitudinal research designs, cross-cultural psychometric appropriations (including Item Response Theory), and statistic model comparison (mediation moderation, propensity score matching, SEM models, HLM models, Latent class analysis, dual-centered ANCOVA, etc.). 
 
 > I am also applying statistical software such as Stata, Mplus, R, SAS, and Python in research and teaching. I have been certified by Data Carpentry to teach data management and statistic programs in Data Carpentry Workshop (e.g., Introduction to R) and Software Workshop (e.g., Python).
 
