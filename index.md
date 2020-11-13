@@ -4,7 +4,7 @@ layout: default
 
 <img style="float: center; width: 1000px; margin: 0px 5px 5px" src="images/Family3.jpg">
 
-# Hua Lin, Ph.D
+# <img style="float: center; width: 40px; margin: 0px 0px 0px" src="images/logo-goldB.jpg"> Hua Lin, Ph.D
 
   
 **Home** \ **Research** \ **Publications** \ **Workshops** 
