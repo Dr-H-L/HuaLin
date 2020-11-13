@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-<img style="float: right; width: 1000px; margin: 0px 5px 20px" src="/images/Me_regards1.png">
+<img style="float: right; width: 100px; margin: 0px 5px 20px" src="/images/Me_regards1.png">
 
 # <img style="float: center; width: 50px; margin: 0px 0px 0px" src="/images/logo-goldB.jpg"> Hua Lin, Ph.D
 
