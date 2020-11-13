@@ -3,7 +3,7 @@ layout: post
 title: Publications
 permalink: /publications/
 ---
-![]("images/Family4.jpg")
+![]("/images/Family4.jpg")
 
 # Hua Lin, Ph.D.
 
