@@ -26,7 +26,7 @@ Working on several NIH funding projects  <br />
 [hua.lin@okstate.edu](mailto:hua.lin@dokstate.edu)  <br />
 [Google Scholar](https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en)  <br />
 [Webpage](https://drhualin.github.io/)  <br />
-ResearchGate(https://www.researchgate.net/profile/Hua_Lin30)  <br />
+[ResearchGate](https://www.researchgate.net/profile/Hua_Lin30)  <br />
 
 
 ## Research Interests
