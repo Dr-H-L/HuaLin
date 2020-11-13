@@ -5,6 +5,11 @@ permalink: /research/
 ---
 
 ![](images/Family4.jpg")
+<img style="float: center; width: 1000px; margin: 0px 5px 5px" src="images/Family4.jpg">
+
+<img style="float: center; width: 30px; margin: 0px 5px 5px" src="/images/logo-goldB.jpg">
+
+logo-goldB
 
 # Hua Lin, Ph.D
 
