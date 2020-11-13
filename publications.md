@@ -3,12 +3,12 @@ layout: post
 title: Publications
 permalink: /publications/
 ---
-![]("/images/Family4.jpg")
 
-# Hua Lin, Ph.D.
+<a href="http://drhualin.github.io"><img style="float: right; width: 90px; margin: 0px 5px 20px" src="/images/Me_regards1.png">
+# <img style="float: center; width: 40px; margin: 0px 0px 0px" src="/images/logo-goldB.jpg">  Hua Lin, Ph.D 
 
-[**Home**](/) \ [**Publications**](/publications.md) \ [**Research**](/research) \ **Workshops** 
-
+  
+[**Home**](/)  \ [**Research**](/research) \ [**Publications**](/publications.md)\ **Workshops** 
 
 ***********
 ## Publications
