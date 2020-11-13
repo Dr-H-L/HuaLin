@@ -1,6 +1,6 @@
 ---
 layout: post
-title: publications
+title: Publications
 permalink: /publications/
 ---
 ![]("images/Family4.jpg")
