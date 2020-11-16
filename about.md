@@ -1,10 +1,9 @@
 ---
-layout: page
 title: About
 permalink: /about/
 ---
 
-![](images/Family4.jpg")
+![](/images/Family4.jpg")
 
 # Hua Lin, Ph.D.
 
