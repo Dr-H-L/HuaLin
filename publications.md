@@ -26,19 +26,19 @@ permalink: /publications/
 > 1. Larzelere, R. E., **Lin, H.**, Payton, M. E., & Washburn, I. J. (2018). Longitudinal biases against corrective actions. *Archives of Scientific Psychology*, 6, 243-250. [doi:10.1037/arc0000052](http://doi.org/10.1037/arc0000052).
 
 ## Manuscripts under Review/revision
-> - Atiles, J., **Lin, H.**, Buffington, J. D., & Larzelere, R. E. (invited resubmission). A measure of educators’ teaching style and its relationship with efficacy. The Australian Educational Researcher. 
+> - Atiles, J., **Lin, H.**, Buffington, J. D., & Larzelere, R. E. (invited resubmission). A measure of educators’ teaching style and its relationship with efficacy. *The Australian Educational Researcher*. 
 >
-> - **Lin, H.**, & Larzelere, R. E. (invited resubmission). Toward understanding contradictory methods for reducing selection bias in longitudinal analyses: A simulation of treatment for physical health. Practical Assessment, Research, and Evaluation.
+> - **Lin, H.**, & Larzelere, R. E. (invited resubmission). Toward understanding contradictory methods for reducing selection bias in longitudinal analyses: A simulation of treatment for physical health. *Practical Assessment, Research, and Evaluation*.
 >
-> - **Lin, H.**, Cox, R. B., Sahbaz S., Washburn, I. J. Larzelere, R. E. & Greder, K. (under review). Hope for Latina youth: A longitudinal test of Snyder’s Hope Scale. Family Relations.
+> - **Lin, H.**, Cox, R. B., Sahbaz S., Washburn, I. J. Larzelere, R. E. & Greder, K. (under review). Hope for Latina youth: A longitudinal test of Snyder’s Hope Scale. *Family Relations*.
 >
-> - Sahbaz S., Cox, R., **Lin, H.**, Washburn, I. J., & Greder, K. (under review). PROMIS Pediatric Psychological Stress Measure: Validity for immigrant Latino youth. Family Relations.
+> - Sahbaz S., Cox, R., **Lin, H.**, Washburn, I. J., & Greder, K. (under review). PROMIS Pediatric Psychological Stress Measure: Validity for immigrant Latino youth. *Family Relations*.
 >
-> - Larzelere, R. E., Knowles, S. J., Curtis, J., Oliver, M. G., Bigler, J. F., **Lin H.**, & Larzelere W. A. (under review). Immediate and longer-term effects of modeling desired behavior and collaborating when toddlers are noncompliant. Journal of Child and Family Studies.
+> - Larzelere, R. E., Knowles, S. J., Curtis, J., Oliver, M. G., Bigler, J. F., **Lin H.**, & Larzelere W. A. (under review). Immediate and longer-term effects of modeling desired behavior and collaborating when toddlers are noncompliant. *Journal of Child and Family Studies*.
 >
-> - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (under review). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. The American Journal of Drug and Alcohol Abuse.
+> - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (under review). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*.
 >
-> - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (under review), In Item Response Theory framework to understand Residents’ Pro-tourism Behaviors. Journal of Business Research.  
+> - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (under review), In Item Response Theory framework to understand Residents’ Pro-tourism Behaviors. *Journal of Business Research*.  
 
 ## Referred Conference Presentations 
 
