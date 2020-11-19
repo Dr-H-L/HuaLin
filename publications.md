@@ -36,7 +36,7 @@ permalink: /publications/
 >
 > - Larzelere, R. E., Knowles, S. J., Curtis, J., Oliver, M. G., Bigler, J. F., **Lin H.**, & Larzelere W. A. (under review). Immediate and longer-term effects of modeling desired behavior and collaborating when toddlers are noncompliant. Journal of Child and Family Studies.
 >
->Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (under review). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. The American Journal of Drug and Alcohol Abuse.
+> - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (under review). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. The American Journal of Drug and Alcohol Abuse.
 >
 > - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (under review), In Item Response Theory framework to understand Residents’ Pro-tourism Behaviors. Journal of Business Research.  
 
