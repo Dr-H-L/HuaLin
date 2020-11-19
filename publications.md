@@ -87,7 +87,7 @@ permalink: /publications/
 >
 > -  **Lin, H.**, & Larzelere, R. E. (March, 2016). Correlates of Maternal Negative Affect during Discipline Episodes with Toddlers. Paper presented at the biennial meeting of the 2016 Society for Research in Human Development, Denver, CO.
 >
-> -  Lin, H., & Henry C. S. (March, 2015). A Conceptual Framework of Family Resilience: Resilience in International Graduate Student Families. Paper presented at the Oklahoma Council on Family Relations Conference, Oklahoma City, OK.
+> -  **Lin, H.**, & Henry C. S. (March, 2015). A Conceptual Framework of Family Resilience: Resilience in International Graduate Student Families. Paper presented at the Oklahoma Council on Family Relations Conference, Oklahoma City, OK.
 >
 > -  **Lin, H.**, & Larzelere, R. E. (March, 2015). How Parenting Strategies Vary by Momentary Parenting Goals. Paper presented at the Oklahoma Council on Family Relations Conference, Oklahoma City, OK.
 
