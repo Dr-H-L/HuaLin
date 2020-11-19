@@ -26,7 +26,7 @@ permalink: /publications/
 > 1. Larzelere, R. E., **Lin, H.**, Payton, M. E., & Washburn, I. J. (2018). Longitudinal biases against corrective actions. *Archives of Scientific Psychology*, 6, 243-250. [doi:10.1037/arc0000052](http://doi.org/10.1037/arc0000052).
 
 ## Manuscripts under Review/revision
-> - Atiles, J., Lin, H., Buffington, J. D., & Larzelere, R. E. (invited resubmission). A measure of educators’ teaching style and its relationship with efficacy. The Australian Educational Researcher. 
+> - Atiles, J., **Lin, H.**, Buffington, J. D., & Larzelere, R. E. (invited resubmission). A measure of educators’ teaching style and its relationship with efficacy. The Australian Educational Researcher. 
 >
 > - **Lin, H.**, & Larzelere, R. E. (invited resubmission). Toward understanding contradictory methods for reducing selection bias in longitudinal analyses: A simulation of treatment for physical health. Practical Assessment, Research, and Evaluation.
 >
