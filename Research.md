@@ -5,14 +5,14 @@ permalink: /research/
 ---
 
 <a href="http://drhualin.github.io"><img style="float: right; width: 90px; margin: 0px 5px 20px" src="/images/Me_regards1.png">
-# <img style="float: center; width: 40px; margin: 0px 0px 0px" src="/images/logo-goldB.jpg">  Hua Lin, Ph.D 
+<h1> <img style="float: center; width: 40px; margin: 0px 0px 0px" src="/images/logo-goldB.jpg">  Hua Lin, Ph.D </h1>
 
   
 [**Home**](/)  \ [**Research**](/research) \ [**Publications**](/publications.md)\ **Workshops** 
 
 ***********
 
-<h1> Grant and Research Activities</h1>
+<h2> Grant and Research Activities</h2>
 
 ### Grants Submitted and Under Review
 > - *2020*   National Institute of Drug Abuse (2021-2023). Parent-Child Language Discrepancies and ATOD use among Latino Immigrants (under review). **Co-Principal Investigator**.
