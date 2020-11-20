@@ -12,7 +12,7 @@ permalink: /research/
 
 ***********
 
-## Grant and Research Activities
+<h1> Grant and Research Activities</h1>
 
 ### Grants Submitted and Under Review
 > - *2020*   National Institute of Drug Abuse (2021-2023). Parent-Child Language Discrepancies and ATOD use among Latino Immigrants (under review). **Co-Principal Investigator**.
