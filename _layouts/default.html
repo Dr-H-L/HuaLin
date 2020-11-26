@@ -2,8 +2,11 @@
 <html>
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
     {% include meta.html %}
+
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+
   </head>
 
   <body>
@@ -18,8 +21,8 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Home</a>
-            <a href="{{ site.baseurl }}/Research">Research</a>
+            <a href="{{ site.baseurl }}/">Blog</a>
+            <a href="{{ site.baseurl }}/about">About</a>
           </nav>
         </header>
       </div>
@@ -28,5 +31,6 @@
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
+
   </body>
 </html>
