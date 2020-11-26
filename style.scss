@@ -5,9 +5,8 @@
 // IMPORTS
 //
 
-
- @import "reset";
- @import "variables";
+@import "reset";
+@import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -70,11 +69,11 @@ p {
 }
 
 a {
-  color: $black;
+  color: $blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $black;
+    color: $blue;
   }
 }
 
@@ -274,26 +273,8 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #black;
-  border-bottom: 1px solid #black;
-  background-color: $lightGray;
-}
-
-
-
-.manu {
-  background-color: $lightGray;
- }
-
-
-.markdown-block a {
-    color: green !important;
-}
-
-.wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #black;
-  border-bottom: 1px solid #black;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
   background-color: $lightGray;
 }
 
@@ -304,5 +285,5 @@ footer {
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
- @import "highlights";
- @import "svg-icons";
+@import "highlights";
+@import "svg-icons";
